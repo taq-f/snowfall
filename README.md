@@ -1,5 +1,7 @@
 # snowfall
 
+[demo](https://taq-f.github.io/snowfall/)
+
 ## Project setup
 ```
 npm install
