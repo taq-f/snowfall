@@ -73,7 +73,6 @@ export default {
   },
   watch: {
     snowing(newVal) {
-      console.log(newVal);
       if (newVal) {
         this.startAnimation()
       } else {
